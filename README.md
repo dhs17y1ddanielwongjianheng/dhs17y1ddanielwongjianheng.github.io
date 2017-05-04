@@ -2,8 +2,7 @@
 <html>
 <body>
 <h1>All About Me</h1>
-<title>
-This is my website</title>
+<title>This is my website</title>
 <p>
 I am a student of Duman High. Currently in 1st year high school.</p>
 <a href="www.dhs.sg">Dunman High Scool</a>
